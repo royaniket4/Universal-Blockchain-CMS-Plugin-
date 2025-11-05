@@ -163,6 +163,6 @@ blockchain-cms-plugin/
 
 ## Contributing 🤝
 
-Fork the repo, open PRs, or request features in Issues!
+Fork the repo, open PRs, or request features in Issues
 
 
