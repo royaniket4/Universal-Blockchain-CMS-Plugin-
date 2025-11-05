@@ -165,20 +165,4 @@ blockchain-cms-plugin/
 
 Fork the repo, open PRs, or request features in Issues!
 
-***
 
-## License 📝
-
-MIT License
-
-***
-
-## Support 💬
-
-Open an Issue or check the `/docs` folder for more help.
-
-***
-
-**Made for modern, secure WordPress experiences! Powered by ❤️, JS, PHP, MetaMask, and open source.**
-
----
