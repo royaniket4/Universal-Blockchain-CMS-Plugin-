@@ -140,7 +140,12 @@ blockchain-cms-plugin/
 - **Content Verification Badge**
 - **Database Hashes Example**
 
-> *Make a `/screenshots` folder and add your page images with these names!*
+> <img width="964" height="500" alt="image" src="https://github.com/user-attachments/assets/920b16ed-cbe1-496c-b9b3-f617d699a881" />
+<img width="964" height="479" alt="image" src="https://github.com/user-attachments/assets/39e12b48-c6b4-4934-a9ab-f91b16d00659" />
+<img width="964" height="549" alt="image" src="https://github.com/user-attachments/assets/a8baccb4-310d-4189-8240-18ca89f6329f" />
+<img width="962" height="454" alt="image" src="https://github.com/user-attachments/assets/73b304b7-9451-495f-8803-3e5022f7299f" />
+
+
 
 ***
 
